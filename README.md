@@ -1,2 +1,2 @@
 # vectorDB
-adaptor sequences of Pacbio Hifi reads
+Pacbio Hifi reads adaptor sequences
